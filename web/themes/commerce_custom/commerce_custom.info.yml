@@ -1,0 +1,10 @@
+name: commerce_custom
+type: theme
+description: "A commerce custom theme from drupal commerce"
+core_version_requirement: ^8 || ^9
+base theme: bartik
+libraries-override:
+  commerce_cart/cart_block:
+    css:
+      layout:
+        css/commerce_cart.layout.css: true
