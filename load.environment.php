@@ -7,8 +7,6 @@
 
 use Dotenv\Dotenv;
 
-require __DIR__.'/vendor/autoload.php';
-
 /**
  * Load any .env file. See /.env.example.
  *
