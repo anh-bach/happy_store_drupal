@@ -36,6 +36,7 @@
         "drupal/search_api": "^1.21",
         "drupal/sshop": "^1.12",
         "drush/drush": "^10.3",
+        "platformsh/config-reader": "^2.4",
         "vlucas/phpdotenv": "^5.1",
         "webflo/drupal-finder": "^1.2"
     },
